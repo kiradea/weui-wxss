@@ -1,3 +1,33 @@
+### v2.4.0 (2020-06-17)
+
+#### Features
+* feat: 升级色板配色
+
+
+### v2.3.0 (2020-03-04)
+
+#### Features
+* feat: 兼容小程序的navigator标签
+* feat: input的placeholder更改颜色
+* feat: 更改cell的点击态背景颜色
+* feat: 适配小程序的darkmode
+
+#### Bugfixes
+* fix: msg的title没有适配黑暗模式
+* fix: input placeholder的样式
+* fix: fix default 按钮的点击态
+* fix: form表单的验证码样式
+* fix: darkmode右滑组件、修复图片预览组件刘海屏安全间距问题
+* fix: 搜索框的文本没有适配黑暗模式
+
+
+#### v2.0.1 (2019-10-23)
+- 【增强】 增加组件 form 表单页
+- 【增强】 增加组件 actionsheet 模拟原生actionsheet
+- 【优化】 优化 slideview 右滑操作UI
+- 【修复】 修复在[weui-miniprogram](https://github.com/wechat-miniprogram/weui-miniprogram) v0.2下的一些兼容问题
+
+
 #### v 2.0.0 (2019-08-01)
 
 - 【同步weui】 颜色规范、字体大小规范、间距规范对齐微信7.0新视觉风格
